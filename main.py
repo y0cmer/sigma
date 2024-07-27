@@ -1,0 +1,1 @@
+#git remote add origin https://github.com/y0cmer?tab=repositoriesgit remote remove origin
